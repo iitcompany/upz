@@ -1,0 +1,1 @@
+<?$MESS["REVIEWS_SECTION_TITLE_NAME"] = "Block title";$MESS["REVIEWS_SECTION_LINK_NAME"] = "Link text";

@@ -1,0 +1,132 @@
+.vacancy__text {
+    margin-bottom: 45px;
+}
+
+.vacancy__item {
+    box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.vacancy__item:not(:last-child) {
+    margin-bottom: 40px;
+}
+
+.vacancy__top {
+    padding: 48px 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.vacancy__name {
+    font-size: 1.125rem;
+    line-height: 1.625rem;
+    max-width: 330px;
+    font-weight: 500;
+}
+
+.vacancy__right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.vacancy__condition {
+    font-weight: 600;
+}
+
+.vacancy__condition-from {
+    color: #6A6A6A;
+    margin-right: 10px;
+}
+.vacancy__condition-price {
+    font-size: 1.25rem;
+}
+
+.vacancy__btn {
+    margin-left: 78px;
+    padding: 10px;
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.vacancy__btn.open svg {
+    transform: rotate(180deg);
+}
+
+.vacancy__condition-price {
+    position:relative;
+}
+.vacancy__condition-price:after {
+    content: 'Р';
+    display: inline;
+    padding-left:3px;
+    font-size: 0.85em;
+    font-family: 'ALSRubl-Verdana', Geometria, sans-sarif;
+}
+
+.vacancy__bottom {
+    display: none;
+    padding: 0 96px 48px;
+}
+
+.vacancy__line {
+    width: 100%;
+    background-color: #000;
+    height: 1px;
+    margin-top: -24px;
+    margin-bottom: 30px;
+}
+
+.vacancy__block {
+    margin-bottom: 30px;
+}
+
+.vacancy__title {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.vacancy__list {
+    padding-left: 15px;
+}
+
+.vacancy__list li {
+    line-height: 1.5rem;
+}
+
+.vacancy__list li:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.vacancy__info--price {
+    position: relative;
+}
+
+.vacancy__info--price:after {
+    content: 'Р';
+    display: inline;
+    padding-left:3px;
+    font-size: 1em;
+    font-family: 'ALSRubl-Verdana', Geometria, sans-sarif;
+}
+
+@media screen and (min-width: 320px) and (max-width: 991px){
+    .vacancy__top {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 15px;
+    }
+    .vacancy__line {
+        margin-top: 0;
+    }
+    .vacancy__bottom {
+        padding: 15px;
+    }
+    .vacancy__right {
+        width: 100%;
+        justify-content: space-between;
+    }
+}

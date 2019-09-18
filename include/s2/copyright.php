@@ -1,0 +1,1 @@
+All rights reserved © 2019 JSC "UPZ"

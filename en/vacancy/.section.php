@@ -1,0 +1,4 @@
+<?
+$sSectionName = "Vacancy";
+$arDirProperties = Array();
+?>

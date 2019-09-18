@@ -1,0 +1,24 @@
+.container-section--popular .section-item__image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    overflow: hidden;
+    -webkit-transition: 250ms;
+    transition: 250ms;
+}
+
+.container-section--popular .section-item__image img[lazy-images] {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.container-section--popular .section-item__name {
+    z-index: 2;
+}

@@ -1,0 +1,1 @@
+<?php$MESS['SEARCH_TITLE'] = 'Search';

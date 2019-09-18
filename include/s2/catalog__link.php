@@ -1,0 +1,1 @@
+<a href="<?= SITE_DIR ?>/catalog/">Product Catalog</a>

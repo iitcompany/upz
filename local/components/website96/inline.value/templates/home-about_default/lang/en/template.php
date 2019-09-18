@@ -1,0 +1,1 @@
+<?$MESS['ABOUT_PAGE_LINK_DEFAULT'] = 'Read more';$MESS['ABOUT_SECTION_TITLE_DEFAULT'] = 'About company';

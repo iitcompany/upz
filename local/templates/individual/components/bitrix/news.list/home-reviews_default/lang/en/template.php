@@ -1,0 +1,1 @@
+<?$MESS['REVIEWS_SECTION_TITLE_DEFAULT'] = "Feedback from our customers";$MESS['REVIEWS_SECTION_LINK_DEFAULT'] = "All reviews";

@@ -1,0 +1,1 @@
+<?$MESS["PHONE_TITLE"] = "Phone";$MESS["ADDRESS_TITLE"] = "Address";$MESS["READ_MORE"] = "Read more";$MESS["CT_BNL_ELEMENT_DELETE_CONFIRM"] = "All the information linked to this record will be deleted. Continue anyway?";

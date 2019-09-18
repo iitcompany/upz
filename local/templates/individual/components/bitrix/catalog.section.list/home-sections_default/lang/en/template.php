@@ -1,0 +1,1 @@
+<?$MESS["CT_BCSL_ELEMENT_DELETE_CONFIRM"] = "All information associated with this entry will be deleted. Continue?";$MESS["CATEGORIES_SECTION_TITLE_DEFAULT"] = "Popular Categories";$MESS["CATEGORIES_SECTION_LINK_DEFAULT"] = "Go to the directory";

@@ -1,0 +1,1 @@
+<?$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_NAME_VALUE'] = 'Sort items panel';$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_DESCRIPTION_VALUE'] = 'The component displays a panel for selecting the sort of section elements, as well as forms the name of the property and the direction of the sort.';$MESS['CODEBLOGPRO_SORT_PANEL_COMPONENT_TYPE_CONTENT_VALUE'] = 'Content';
